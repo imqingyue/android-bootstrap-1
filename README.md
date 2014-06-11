@@ -1,5 +1,5 @@
 # Android Bootstrap App
-
+Android Bootstrap是专为Android Studio和Gradle构建的一个集模板、引导和样板文件于一身的开源项目，基于Parse API创建，拥有着许多非常优秀的开源工具和框架，能够帮助开发者节省大量的开发、测试与调试时间。
 [![Build Status](https://travis-ci.org/AndroidBootstrap/android-bootstrap.svg?branch=master)](https://travis-ci.org/AndroidBootstrap/android-bootstrap)
 
 This repository contains the source code for the [Android Bootstrap](http://www.androidbootstrap.com/)
